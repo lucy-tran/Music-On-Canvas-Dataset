@@ -1,0 +1,16 @@
+// Music mood, Objects/People, Location, Time of Day, Season, Feeling, Additional Details
+
+1) Te Amo Captions
+1.1) Happy, couples, riverbank, sunset, autumn, peaceful
+
+2) Winter_The_Four_Seasons
+2.1) Scary, winter trees, valley in a mountain, noon, winter, cold, intense snow storm
+
+3) Naruto-Sadness_and_Sorrow
+3.1) Sad, a man, cemetery, evening, sorrow, autumn, wind is blowing
+
+4) Victory
+4.1) Exciting, an army riding horses, epic battle field, evening, spring, joyful, war victory
+
+5) Memories
+5.1) Tender, a dad is helping his kid ride the bike the first time, open rice field, evening, autumn, joyful, beautiful memories
